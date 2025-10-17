@@ -4,6 +4,8 @@ def main():
     age = int(input("What is your age: "))
     print(f"Your age is {age}")
 
+    print("This is a new line")
+
 
 if __name__ == "__main__":
     main()
